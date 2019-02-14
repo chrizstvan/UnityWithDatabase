@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_Server Connection unity.-244706222.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="LeanTouch" t="Include">
+          <e p="Examples" t="Include">
+            <e p="Fonts" t="Include">
+              <e p="OFL.txt" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="LeanCameraMove.cs" t="Include" />
+              <e p="LeanCameraZoom.cs" t="Include" />
+              <e p="LeanCanvasArrow.cs" t="Include" />
+              <e p="LeanDestroy.cs" t="Include" />
+              <e p="LeanFingerDown.cs" t="Include" />
+              <e p="LeanFingerHeld.cs" t="Include" />
+              <e p="LeanFingerLine.cs" t="Include" />
+              <e p="LeanFingerSet.cs" t="Include" />
+              <e p="LeanFingerSwipe.cs" t="Include" />
+              <e p="LeanFingerTap.cs" t="Include" />
+              <e p="LeanFingerTrail.cs" t="Include" />
+              <e p="LeanFingerUp.cs" t="Include" />
+              <e p="LeanOpenUrl.cs" t="Include" />
+              <e p="LeanPath.cs" t="Include" />
+              <e p="LeanPlane.cs" t="Include" />
+              <e p="LeanRotate.cs" t="Include" />
+              <e p="LeanScale.cs" t="Include" />
+              <e p="LeanScreenDepth.cs" t="Include" />
+              <e p="LeanSelect.cs" t="Include" />
+              <e p="LeanSelectable.cs" t="Include" />
+              <e p="LeanSelectableBehaviour.cs" t="Include" />
+              <e p="LeanSelectableGraphicColor.cs" t="Include" />
+              <e p="LeanSelectableRendererColor.cs" t="Include" />
+              <e p="LeanSelectableSpriteRendererColor.cs" t="Include" />
+              <e p="LeanSpawnAt.cs" t="Include" />
+              <e p="LeanTouchEvents.cs" t="Include" />
+              <e p="LeanTranslate.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="Skybox.shader" t="Include" />
+              <e p="Smooth.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="LeanFinger.cs" t="Include" />
+            <e p="LeanGesture.cs" t="Include" />
+            <e p="LeanSnapshot.cs" t="Include" />
+            <e p="LeanTouch.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AssetBundleScripts" t="Include">
+            <e p="BundleLoader.cs" t="Include" />
+            <e p="Editors" t="Include">
+              <e p="CreateAssetBundle.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Authentification.cs" t="Include" />
+          <e p="DBManager.cs" t="Include" />
+          <e p="Game.cs" t="Include" />
+          <e p="Login.cs" t="Include" />
+          <e p="MainMenu.cs" t="Include" />
+          <e p="Registration.cs" t="Include" />
+          <e p="WebTest.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Server Connection unity.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
